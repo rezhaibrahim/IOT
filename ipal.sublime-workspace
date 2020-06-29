@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wahana",
+				"wahana_id"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"standby",
+				"standby_mode"
+			],
+			[
+				"dev",
+				"devices"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"pow",
+				"powerdataset"
+			],
+			[
+				"el",
+				"electricitysource"
+			],
+			[
+				"devicepa",
+				"devicepairing"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"data",
+				"datazigzag"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"we",
+				"weather"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"lang",
+				"langkah_kaki"
+			],
+			[
+				"province",
+				"province_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Contr",
+				"Controllers"
+			],
+			[
+				"sho",
+				"shopkeeper"
+			],
+			[
+				"Sho",
+				"Shopkeeper"
+			],
+			[
+				"vio",
+				"violator_identity_number"
+			],
+			[
+				"viola",
+				"violation"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"getPer",
+				"getPersonName"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"start",
+				"startGame"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "koneksi.php",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "keran.php",
+			"settings":
+			{
+				"buffer_size": 265,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kipas.php",
+			"settings":
+			{
+				"buffer_size": 265,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pompa.php",
+			"settings":
+			{
+				"buffer_size": 266,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "control.php",
+			"settings":
+			{
+				"buffer_size": 7243,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/insert.php",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/getActuatorStatus.php",
+			"settings":
+			{
+				"buffer_size": 667,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap/css/font_size.css",
+			"settings":
+			{
+				"buffer_size": 2641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tampil_tinggi.php",
+			"settings":
+			{
+				"buffer_size": 3996,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tampil_suhu.php",
+			"settings":
+			{
+				"buffer_size": 3967,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tampil_ph.php",
+			"settings":
+			{
+				"buffer_size": 3940,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tampil_amoniak.php",
+			"settings":
+			{
+				"buffer_size": 3973,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tampil_alkohol.php",
+			"settings":
+			{
+				"buffer_size": 3998,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/dbconnect.php",
+			"settings":
+			{
+				"buffer_size": 346,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ipal",
+		"/C/xampp/htdocs/ipal/api"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ipal/old/koneksi.php",
+		"/C/xampp/htdocs/wahana/data_wahana_petugas.php",
+		"/C/xampp/htdocs/wahana/data_wahana_manajer.php",
+		"/C/xampp/htdocs/wahana/data_laporan.php",
+		"/C/xampp/htdocs/wahana/dashboard.php",
+		"/C/xampp/htdocs/wahana/getdatagrafik.php",
+		"/C/xampp/htdocs/wahana/api/wahana/masukwahana.php",
+		"/C/xampp/htdocs/wahana/css/style.css",
+		"/C/xampp/htdocs/wahana/model/m_login.php",
+		"/C/xampp/htdocs/wahana/controller/c_login.php",
+		"/C/xampp/htdocs/smkicb/data_guru.php",
+		"/C/xampp/htdocs/wahana/api/wahana/refund.php",
+		"/C/xampp/htdocs/wahana/model/m_kartu.php",
+		"/C/xampp/htdocs/wahana/controller/c_data_kartu.php",
+		"/C/xampp/htdocs/wahana/controller/simpan_refund.php",
+		"/C/xampp/htdocs/wahana/controller/simpan_topup.php",
+		"/C/xampp/htdocs/wahana/controller/simpan_kartu.php",
+		"/C/xampp/htdocs/wahana/controller/refundsignal.php",
+		"/C/xampp/htdocs/wahana/controller/topupsignal.php",
+		"/C/xampp/htdocs/wahana/form_refund.php",
+		"/C/xampp/htdocs/wahana/form_topup.php",
+		"/C/xampp/htdocs/wahana/model/m_wahana.php",
+		"/C/xampp/htdocs/wahana/controller/c_data_wahana.php",
+		"/C/xampp/htdocs/wahana/edit_wahana.php",
+		"/C/xampp/htdocs/wahana/controller/simpan_wahana.php",
+		"/C/xampp/htdocs/wahana/controller/update_wahana.php",
+		"/C/xampp/htdocs/wahana/tambah_wahana.php",
+		"/C/xampp/htdocs/wahana/tambah_kartu.php",
+		"/C/xampp/htdocs/wahana/data_kartu_petugas.php",
+		"/C/xampp/htdocs/wahana/dashboardpetugas.php",
+		"/C/xampp/htdocs/smkicb/edit_guru.php",
+		"/C/xampp/htdocs/wahana/controller/delete_wahana.php",
+		"/C/xampp/htdocs/wahana/api/wahana/topup.php",
+		"/C/xampp/htdocs/wahana/include/dbconnect.php",
+		"/C/xampp/htdocs/wahana/index.php",
+		"/C/xampp/htdocs/smkicb/data_siswa.php",
+		"/C/xampp/htdocs/smkicb/tambah_siswa.php",
+		"/C/xampp/htdocs/smkicb/dashboardlab.php",
+		"/C/xampp/htdocs/smkicb/dashboardguru.php",
+		"/C/xampp/htdocs/monitoringair/api/insert.php",
+		"/C/xampp/htdocs/landslide/api/insert.php",
+		"/C/xampp/htdocs/monitoringair/include/dbconnect.php",
+		"/C/xampp/htdocs/landslide/include/dbconnect.php",
+		"/C/xampp/htdocs/rekomendasi_tanaman/include/dbconnect.php",
+		"/C/xampp/htdocs/sekolahsurya/resources/views/admin/pic/Agenda Kegiatan PPBT Ristekdikti per Bulan.txt",
+		"/C/xampp/htdocs/monitorbayi/api/v1/insert.php",
+		"/C/xampp/htdocs/petatunanetra/insertdata.php",
+		"/C/xampp/htdocs/smkicb/api/presensi/insertabsen.php",
+		"/C/xampp/htdocs/monitorbayi/api/includes/dbconfig.php",
+		"/F/Portfolio/Jabar Digital Service/Catatan Kajian Software.txt",
+		"/C/Users/azkai/Desktop/Rapat CC 21 Februari 2019.txt",
+		"/F/Portfolio/Khaira Energy (IHMS)/NYALA Energy Acceleration/Elevate Day 3.txt",
+		"/F/Portfolio/Khaira Energy (IHMS)/NYALA Energy Acceleration/Elevate Day 2.txt",
+		"/F/Portfolio/Khaira Energy (IHMS)/NYALA Energy Acceleration/Elevate Day 1.txt",
+		"/C/xampp/htdocs/sekolahsurya/app/Http/Controllers/AdminPICController.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045735_create_beneficiaries_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/seeds/AdminSeeder.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Providers/AuthServiceProvider.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/sekolahsurya/resources/pic.blade.php",
+		"/C/xampp/htdocs/sekolahsurya/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045424_create_pics_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045910_create_landing__pages_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045923_create_thank__yous_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045820_create_news_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045754_create_transcations_table.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_085830_create_faqs_table.php",
+		"/C/xampp/htdocs/sekolahsurya/app/User.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Pic.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Beneficiary.php",
+		"/C/xampp/htdocs/sekolahsurya/app/Funder.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_045700_create_funders_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2019_02_27_044721_create_roles_table.php",
+		"/C/xampp/htdocs/sekolahsurya/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/sekolahsurya/.env",
+		"/C/xampp/htdocs/sekolahsurya/config/app.php",
+		"/C/xampp/htdocs/smartenergy/webapp/routes/web.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/smarthome/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/SmartHomeController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/solarcell/saving.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Services/ElectricitySourceService.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/SolarCellController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/device/edit.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/DeviceController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/device/create.blade.php",
+		"/F/Portfolio/Khaira Energy (IHMS)/NYALA Energy Acceleration/Pitch Bootcamp Day 2.txt",
+		"/C/xampp/htdocs/simulasi/insert.php",
+		"/C/xampp/htdocs/simulasi/get.php",
+		"/C/Users/azkai/Desktop/Note Khaira.txt",
+		"/C/Users/azkai/Desktop/Pitch Bootcamp Day 1",
+		"/C/Users/azkai/Desktop/Pitch Bootcamp Day 2",
+		"/C/Users/azkai/Downloads/db.php",
+		"/C/xampp/htdocs/smartenergy/webapp/config/adminlte.php",
+		"/C/xampp/htdocs/smartenergy/webapp/database/migrations/2018_04_18_021736_create_device_pairings_table.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/device/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/smarthome/view.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/home.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/setting/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/database/migrations/2018_04_18_022833_create_devices_table.php",
+		"/C/xampp/htdocs/bmkg/lib/bmkg.php",
+		"/C/xampp/htdocs/smartenergy/webapp/.env",
+		"/C/xampp/htdocs/pengolahansabutkelapa/application/config/database.php",
+		"/C/Users/azkai/Desktop/graviton_html/home.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/solarcell/performance.blade.php",
+		"/C/xampp/htdocs/smartenergy/iot-device/api/v1/monitoring/store.php",
+		"/C/xampp/htdocs/smartenergy/iot-device/api/v1/monitoring/updateroom.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/room/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/setting/panelsetting.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/DevicePairingController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/RoomController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/vendor/adminlte/master.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/public/js/script.js",
+		"/C/xampp/htdocs/smartenergy/iot-device/api/v1/smarthome/view.php",
+		"/C/xampp/htdocs/smartenergy/iot-device/api/v1/smarthome/index.php",
+		"/C/xampp/htdocs/crm/resources/views/bill/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/room/edit.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/room/create.blade.php",
+		"/C/xampp/htdocs/etilang/routes/web.php",
+		"/C/xampp/htdocs/etilang/app/Http/Controllers/ViolationController.php",
+		"/C/xampp/htdocs/etilang/resources/views/violations/create.blade.php",
+		"/C/xampp/htdocs/etilang/resources/views/violations/index.blade.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/smartenergy/webapp/database/migrations/2018_04_18_022952_create_rooms_table.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/User.php",
+		"/C/xampp/htdocs/smartenergy/webapp/app/Room.php",
+		"/C/xampp/htdocs/smartenergy/webapp/resources/views/monitoring/dashboard.blade.php",
+		"/C/Users/azkai/M001/loadReviewsDataset/loadReviewsDataset.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\\\xampp\\htdocs\\smartenergy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"media_ternak",
+			"guru",
+			"buku",
+			"\"> ",
+			"#006DF0",
+			"alumni",
+			"status",
+			"%;\">&",
+			"left",
+			"%\"><",
+			";\n",
+			"diedit",
+			"');\n",
+			"joinParams",
+			"stringify",
+			"appSecret",
+			"opt",
+			"generateParam",
+			");\n",
+			"isset",
+			"endif",
+			"mysql_real_escape_string",
+			"\">\n",
+			"^(.*)$",
+			"shuttlerun",
+			"illnois",
+			"zigzag",
+			"drone",
+			"gradezigzag",
+			"boomerang",
+			"illnois",
+			"Generating",
+			"\">{{",
+			"example2",
+			"pieChart",
+			"browser",
+			"                                {{",
+			"example",
+			"example1",
+			"//],",
+			"$national",
+			"$province",
+			"++;",
+			"$percentageshuttlerun",
+			"$percentageillnois",
+			"$gradeshuttlerun",
+			"$gradeillnois",
+			">\n",
+			"$order",
+			"user",
+			"$loyaltyprogram",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"data_sensor",
+			"wahana",
+			"kartu",
+			"pic",
+			"mysqli_real_escape_string",
+			"boomerang",
+			"shuttlerun",
+			"illnois",
+			"zigzag",
+			"boomerang",
+			"$province",
+			"$regency",
+			"$percentage",
+			"$grade",
+			"$user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "koneksi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "keran.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kipas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pompa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "control.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1251,
+								1251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 710.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "api/insert.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "api/getActuatorStatus.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "bootstrap/css/font_size.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4864,
+								4864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "tampil_tinggi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3585,
+								3585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2592.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "tampil_suhu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3536,
+								3428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "tampil_ph.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3521,
+								3521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "tampil_amoniak.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2538.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "tampil_alkohol.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2244,
+								2244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "include/dbconnect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ipal.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
